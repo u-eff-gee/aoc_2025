@@ -1,0 +1,22 @@
+# AOC input
+input*.txt
+
+# Binaries
+aoc01
+aoc02
+aoc03
+aoc04
+aoc05
+aoc06
+aoc07
+aoc08
+aoc09
+aoc10
+aoc11
+aoc12
+
+# CMake
+CMakeCache.txt
+cmake_install.cmake
+CMakeFiles
+Makefile
