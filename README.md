@@ -14,7 +14,7 @@ In the following, the variable `DD` can be any of these directories (`DD = 01, 0
 
 ### Prerequisites
 
-* C++ compiler
+* C++ compiler that supports standards >=20
 * [CMake](https://cmake.org/) >= 3.10
 
 In addition to the software prerequisites, the code may require input files provided by AOC.
