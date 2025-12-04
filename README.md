@@ -2,7 +2,7 @@
 
 ## Overview
 
-Repository for my solutions of [Advent of Code](https://adventofcode.com/2025) (AOC) puzzles.
+Repository for my solutions of [Advent of Code 2025](https://adventofcode.com/2025) (AOC) puzzles.
 
 My goal is to implement all solutions in C++ using only the Standard Library.
 Besides solving the puzzle, the code also runs unit tests that I used during development, and it reproduces the examples given by AOC.
